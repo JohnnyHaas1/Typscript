@@ -6,6 +6,7 @@ Projeto Typescript da DIO
 # desafios
 
 # index.html
+Projeto Typescript
 
 # tsconfig.json
 
